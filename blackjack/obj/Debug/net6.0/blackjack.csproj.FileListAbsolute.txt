@@ -1,0 +1,45 @@
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.exe
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.deps.json
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.runtimeconfig.json
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.dll
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.pdb
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.csproj.AssemblyReference.cache
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.AssemblyInfoInputs.cache
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.AssemblyInfo.cs
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.dll
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\obj\Debug\net6.0\refint\blackjack.dll
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.pdb
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.genruntimeconfig.cache
+C:\Users\maiks\OneDrive\Desktop\BlackjackPOO\blackjack\obj\Debug\net6.0\ref\blackjack.dll
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.exe
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.deps.json
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.runtimeconfig.json
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.dll
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.pdb
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.csproj.AssemblyReference.cache
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.AssemblyInfoInputs.cache
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.AssemblyInfo.cs
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.dll
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\refint\blackjack.dll
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.pdb
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.genruntimeconfig.cache
+C:\Users\maiks\OneDrive\Desktop\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\ref\blackjack.dll
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.exe
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.deps.json
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.runtimeconfig.json
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.dll
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\bin\Debug\net6.0\blackjack.pdb
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.csproj.AssemblyReference.cache
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.AssemblyInfoInputs.cache
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.AssemblyInfo.cs
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.dll
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\refint\blackjack.dll
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.pdb
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\blackjack.genruntimeconfig.cache
+C:\Users\maiks\OneDrive\Desktop\Ingeniería en sistemas\Paradigmas\examen\Ced-208050391-PrimerExamen\BlackjackPOO\blackjack\obj\Debug\net6.0\ref\blackjack.dll

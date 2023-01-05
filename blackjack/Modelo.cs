@@ -8,7 +8,7 @@ namespace blackjack
 {
     public class Modelo 
     {
-        public static int numeroCartas = 53;
+        public static int numeroCartas = 52;
         public static int juegos = 0;
         public static int gana = 0;
         public static int juegosTotales = 0;
